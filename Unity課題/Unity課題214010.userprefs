@@ -1,11 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Bwall.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Clear.cs">
     <Files>
+      <File FileName="Assets\scripts\time.js" Line="22" Column="42" />
+      <File FileName="Assets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" Line="198" Column="5" />
+      <File FileName="Assets\scripts\Bwall.cs" Line="24" Column="4" />
       <File FileName="Assets\UnityChan\Scripts\IdleChanger.cs" Line="1" Column="1" />
-      <File FileName="Assets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" Line="162" Column="6" />
-      <File FileName="Assets\scripts\camera.cs" Line="21" Column="36" />
-      <File FileName="Assets\scripts\Bwall.cs" Line="20" Column="3" />
+      <File FileName="Assets\scripts\camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\UnityChan\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Clear.cs" Line="8" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
